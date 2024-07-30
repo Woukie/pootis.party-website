@@ -3,22 +3,10 @@
 }
 
 .prettytitle {
-  background-color: #0aa;
-  border: 4px double #fff;
-  border-radius: 0;
-  box-shadow: 0 0 0 4px #0aa;
-  display: block;
-  color: white;
-  padding: 0;
-  margin: 0 0 10px;
-  font-size: 18px;
-  font-weight: normal;
-  line-height: 20px;
-  word-break: break-all;
-  word-wrap: break-word;
   white-space: pre-wrap;
+  color: #f5e7de;
 }
 
 .colouredtitle {
-  color: #fefe54;
+  color: #ef9849;
 }
