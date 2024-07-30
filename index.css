@@ -3,6 +3,10 @@
 }
 
 .prettytitle {
+  background-color: #0aa;
+  border: 4px double #fff;
+  border-radius: 0;
+  box-shadow: 0 0 0 4px #0aa;
   display: block;
   color: white;
   padding: 0;
@@ -13,4 +17,8 @@
   word-break: break-all;
   word-wrap: break-word;
   white-space: pre-wrap;
+}
+
+.colouredtitle {
+  color: #fefe54;
 }
